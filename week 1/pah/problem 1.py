@@ -1,0 +1,6 @@
+m=str(input(""))
+n=float(input(""))
+o=float(input(""))
+print(f"Room: {m}")
+print(f"Temperature: {n:.2f}")
+print(f"Humidity: {o:.2f}%")

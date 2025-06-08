@@ -1,0 +1,6 @@
+m=str(input())
+n=str(input())
+o=float(input())
+print(f"Car Make: {m}")
+print(f"Car Model: {n}")
+print(f"Price : Rs.{o:.2f}")
