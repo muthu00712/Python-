@@ -1,0 +1,6 @@
+a=int(input())
+b=float(input())
+c,d=map(float,input().split())
+position=complex(c,d)
+print(position)
+print(a,",",b,",",c,",",d)
