@@ -1,0 +1,6 @@
+c=int(input())
+a=list(map(int,input().split()))
+b=len(list(filter(lambda x:x%2==0,a)))
+d=len(list(filter(lambda x:x%2!=0,a)))
+print(b)
+print(d)

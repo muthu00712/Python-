@@ -1,0 +1,5 @@
+a=list(map(int,input().split()))
+b=list(map(lambda x:x**2,a))
+c=list(map(lambda x:x**3,a))
+print(b)
+print(c)
