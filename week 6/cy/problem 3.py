@@ -1,0 +1,6 @@
+n=str(input())
+print(f"Original String: {n}")
+u=n.upper()
+print(f"Upper-Case String: {u}")
+l=n.lower()
+print(f"Lower-Case String: {l}")
